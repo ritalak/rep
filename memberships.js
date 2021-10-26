@@ -1,1 +1,1 @@
-window.open("/","_blank")
+// window.open("/","_blank")
