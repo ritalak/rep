@@ -1,1 +1,1 @@
-window.open("/","blank")
+window.open("/","_blank")
