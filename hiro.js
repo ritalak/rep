@@ -1,1 +1,2 @@
-window.open("/","_self")
+alert("Hello! I am an alert box!!");
+
